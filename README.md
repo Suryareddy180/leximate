@@ -82,13 +82,13 @@ leximate-ai/
 └── README.md
 ```
 ---
-✅ Example Output
+##✅ Example Output
 -After entering the party names and any required info, you will:
 -See the generated legal document
 -Get a "📄 Download PDF" button to save it
 ---
 
-📝 Requirements
+##📝 Requirements
 Save this as requirements.txt:
 ```bash
 streamlit
@@ -96,7 +96,7 @@ google-generativeai
 fpdf
 ```
 ---
-🙌 Acknowledgements:
+##🙌 Acknowledgements:
 -Google Generative AI
 -FPDF for Python
 -Liberation Fonts
