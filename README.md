@@ -83,9 +83,9 @@ leximate-ai/
 ```
 ---
 ✅ Example Output
-After entering the party names and any required info, you will:
-See the generated legal document
-Get a "📄 Download PDF" button to save it
+-After entering the party names and any required info, you will:
+-See the generated legal document
+-Get a "📄 Download PDF" button to save it
 ---
 
 📝 Requirements
